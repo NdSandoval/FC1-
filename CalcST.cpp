@@ -3,10 +3,9 @@
 //FUNCIONA? 
 #include<cmath>
 #include<iostream>
-double x1,x2;
- std::cin>x1;
- std::cin>x2;
-return(0);
 int main(){
+    int n1,n2,op,d;
+    std::cin>>n1;
+    std::cin>>n2;
     return 0;
 }
