@@ -1,6 +1,7 @@
 // Hola esta es la mejor calculadora en equipo
 //este es nuestro primer pull, te quiero mucho :3
-//FUNCIONA? 
+//FUNCIONA?
+//esperando 
 #include<cmath>
 #include<iostream>
 int main(){
@@ -25,11 +26,6 @@ int main(){
     case 8:
     break;
 default:
- 
-
-
-
-
     }
     return 0;
 }
